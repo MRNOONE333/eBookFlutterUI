@@ -10,7 +10,7 @@ class SplashScreen extends StatelessWidget {
     });
 
     return Scaffold(
-      backgroundColor: Color(0xff100A20),
+      backgroundColor: Color(0xff100A20) ,
       body: Stack(
         children: [
           // Background
